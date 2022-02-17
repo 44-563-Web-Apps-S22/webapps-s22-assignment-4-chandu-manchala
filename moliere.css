@@ -1,0 +1,29 @@
+.speech {
+    font-size: 15px;
+    color: black;
+    font-family: "Times New Roman";
+}
+.direction {
+    font-size: 15px;
+    color: black;
+    background-color: lavender;
+    font-family: "Times New Roman";
+}
+h6.direction:hover {
+    background-color: cornsilk;
+    color: skyblue;
+}S
+.name {
+    font-size: 15px;
+    color: black;
+    font-family: "Times New Roman";
+}
+h6.name {
+    margin-block: auto;
+}
+.Cleante {
+    color: crimson;
+}
+.Orgon {
+    color:cornflowerblue;
+}
